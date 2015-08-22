@@ -1,0 +1,38 @@
+Documento de definição de estilo e design para o projeto
+
+FGA- Universidade de Brasília
+Técnicas de Programação
+Prof: Mauricio Serrano
+
+Grupo:  João Henrique 11/0149278
+	      Eduardo Brasil
+
+
+1. Informações
+  1.1 - Objetivo do documeto
+2. Sobre organização do código
+  2.1 - Atribuições de variáveis
+  2.2 - Métodos e chaves
+  2.3 - Identação If/Else
+  2.4 - Limite de escrita
+  2.5 - Estrutura for
+  2.6- Estrutura while
+  2.7 - Biblioteca
+3. A respeito da identação
+  3.1 -  Comprimento de linha
+  3.2 -  Quebra de linha
+  3.3 -  Início do texto
+4. Funções
+  4.1 - Funções e chaves
+5. Variáveis no código
+  5.1 - Padrão de escrita das variáveis
+  5.2 - Inicialização de variáveis
+  5.3 - Declaração de variáveis
+  5.4 - Sobre nome de variáveis
+6. Comentários
+  6.1 - Como criar um comentário
+  6.2 - Padrão de comentário
+7. Classes
+  7.1 - Classes e javaDoc
+  7.2 - Padrão de escrita de classes
+8. Exemplificando o código
