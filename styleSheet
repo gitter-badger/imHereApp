@@ -1,13 +1,3 @@
-Documento de definição de estilo e design para o projeto
-
-FGA- Universidade de Brasília
-Técnicas de Programação
-Prof: Mauricio Serrano
-
-Grupo:  João Henrique 11/0149278
-	      Eduardo Brasil
-
-
 ##Header
 The code must contain a header at the start of class containing the class name and a brief description.
 The header must to be in the style / * ... * /
