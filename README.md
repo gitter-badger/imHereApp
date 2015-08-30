@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/Joao-Henrique/tecProg.png?label=ready&title=Ready)](https://waffle.io/Joao-Henrique/tecProg)
 # I'm here
 
+[![Join the chat at https://gitter.im/Joao-Henrique/imHereApp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Joao-Henrique/imHereApp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # The Ruby Style Guide
 
 This Ruby style guide recommends best practices so that real-world Ruby
